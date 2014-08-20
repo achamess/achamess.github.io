@@ -28,7 +28,7 @@ owner:
     verify: 
 
   bio: "My personal blog"
-  avatar: avatar.jpg
+  avatar: 
 
 paginate:         8
 
@@ -51,4 +51,4 @@ links:
   - title: Teaching
     url: /teaching/
 
-google_analytics_tracking_id: UA-12786552-1
+google_analytics_tracking_id: 

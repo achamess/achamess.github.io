@@ -1,30 +1,18 @@
 ---
-layout: page
+layout: default
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a 5th year MD-PhD student in the [Medical Scientist Training Program](http://mstp.duke.edu) at the [Duke University School of Medicine](http://dukemed.duke.edu). Currently, I am pursuing my PhD work under [Dr. Ru-Rong Ji](http://www.neuro.duke.edu/training-faculty/phd-training-faculty/ru-rong-ji) in the Pain Signaling and Sensory Plasticity Laboratory here at Duke. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I received a BS in Biochemistry from [Stony Brook University](http://www.stonybrook.edu) in 2009. I then came to Duke Med to begin my medical education in 2010. In Fall 2012, I began my graduate studies through the Department of Pharmacology and Cancer biology at Duke. 
 
-There are currently two themes built on Poole:
+I am broadly interested in understanding the molecular and cellular mechanisms of nociception, with an emphasis on chronic pain. In addition, as an aspiring physician-scientist, I aim to direct my research efforts towards questions of high clinical relevance.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My current projects focus on the following areas:  
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- The role of the innate immune receptor NOD2 in the pathogenesis of chronic neuropathic and inflammatory pain
+- Therapeutic use of the pro-resolving lipid mediator Maresin 1 for pain and nerve regeneration
+- Genetic factors contributing to chronic neuropathic pain in human populations
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+---
