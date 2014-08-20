@@ -1,24 +1,54 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
-
-# Permalinks
-permalink:        pretty
+multivews:      true
+source:         .
+highlighter:    pygments
+markdown:       kramdown
+# http://jekyllrb.com/docs/permalinks/
+permalink:      /:year/:month/:day/:title/
 
 # Setup
 title:            Alexander Chamessian
-tagline:          MD-PhD Student
+tagline:          
 description:      
-baseurl:          /
+url:
 
-author:
-  name:           'Alexander Chamessian'
-  url:            https://twitter.com/achamess
+# Site owner
+owner:
+  name: Alexander Chamessian
+  email: achamess@gmail.com
+  vita:
+  twitter: achamess
+  instagram: "achamess"
+  github: "achamess"
+  facebook: "alexander.chamessian"
+  google:
+    analytics: 
+    plus: 
+  bing:
+    verify: 
 
-paginate:         5
+  bio: "My personal blog"
+  avatar: avatar.jpg
 
-# Custom vars
-version:          2.1.0
+paginate:         8
 
-github:
-  repo:           https://github.com/poole/hyde
+figures:
+  dir: /figures
+  enumerate: true
+  analytics: true
+
+links:
+  - title: Home
+    url: /
+  - title: Colophon
+    url: /about/
+  - title: Archives
+    url: /archives/
+  - title: Digital & Public History
+    url: /digital/
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+
+google_analytics_tracking_id: UA-12786552-1

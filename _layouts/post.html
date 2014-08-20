@@ -5,21 +5,26 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% if page.image.feature %}
+    <div class="overlay"></div>
+    <img class="featured-image" src="{{ site.url }}/assets/images/{{ page.image.feature }}"/>
+  {% endif %}
+
   {{ content }}
+
+  {% if page.external-url %}
+  <p><a href="{{ page.external-url }}">Visit Link →</a></p>
+  {% endif %}
 </div>
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<aside class="essay-info">
+  <figure class="essay-info-avatar"><img src="/assets/images/me.jpg" title="Hello, nice to meet you."></figure>
+
+  <div class="essay-info-biography">
+    <h5>About Jason</h5>
+    <p>I'm an historian from the Great Plains working at Stanford University. I like to write about history, technology, environment, culture, and coffee. You can follow <a href="http://twitter.com/jaheppler">me on Twitter</a>, or learn <a href="/about/" title="More about Jason">more about me</a>.</p>
+    <p>This was written on {{ page.date | date: "%B %d, %Y" }}.</p>
+
+    <p><a href="/archives/">&larr; Read more essays</a></p>
+  </div>
+</aside>
