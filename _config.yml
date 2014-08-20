@@ -40,15 +40,15 @@ figures:
 links:
   - title: Home
     url: /
-  - title: Colophon
+  - title: About
     url: /about/
-  - title: Archives
-    url: /archives/
-  - title: Digital & Public History
-    url: /digital/
   - title: Research
     url: /research/
-  - title: Teaching
-    url: /teaching/
+  - title: Publications
+    url: /pubs/
+  - title: Vita
+    url: /cv2/
+  - title: Blog
+    url: http://www.acuriousmix.com
 
 google_analytics_tracking_id: 
