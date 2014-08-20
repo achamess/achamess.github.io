@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Home
+permalink: /
 ---
 
 I am a 5th year MD-PhD student in the [Medical Scientist Training Program](http://mstp.duke.edu) at the [Duke University School of Medicine](http://dukemed.duke.edu). Currently, I am pursuing my PhD work under [Dr. Ru-Rong Ji](http://www.neuro.duke.edu/training-faculty/phd-training-faculty/ru-rong-ji) in the Pain Signaling and Sensory Plasticity Laboratory here at Duke. 
