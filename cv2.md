@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vita
+permalink: /vita/
 ---
 
 **Alexander Chamessian**
