@@ -12,8 +12,8 @@ Web: [achamess.github.io](http://achamess.github.io)
 
 ## Education
 
-2005-2009       BS, *Summa Cum Laude*, Biochemistry Stony Brook University   
-2010-Present    MD-PhD, Duke University School of Medicine (In Progress)
+- [Stony Brook University](http://www.stonybrook.edu/), BS in Biochemistry, *Summa Cum Laude* (2005-2009)
+- [Duke University School of Medicine](http://dukemed.duke.edu), Medical Scientist Training Program, MD-PhD candidate (2010-Present)
 
 ## Research Interests
 - Neuro-immune interactions in chronic pain
@@ -81,8 +81,9 @@ Nelson JW, **Chamessian AG**, McEnaney PJ, Murelli RP, Kazmierczak BI, Kazmierca
 
 ## Conferences Attended
 
-- Pain Society of the Carolinas, Annual Meeting and Symposium. (Asheville, NC, 2013)
+- [Pain Society of the Carolinas](http://www.carolinapain.org/), Annual Meeting and Symposium. (Asheville, NC, 2013)
 - American Society of Anesthesiologists (ASA) 2013 Annual Meeting. (San Francisco, NC, 2013)
-- SFN conference in Washington
+- UCSD Clinical and Translational Research Institute/ *Nature Medicine* ["Pain 2010: From bench to bedside"](http://www.nature.com/natureconferences/ctri2010/index.html), La Jolla, CA, USA (2010)
+
 
 
