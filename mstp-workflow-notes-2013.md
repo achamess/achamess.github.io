@@ -61,7 +61,7 @@ Web-based, Commercial
 	- Highly recommended. Popular with med students. I've been a long-time user.
 	
 ### Writing 
-#### Tools
+
 1. [Scrivener](http://www.literatureandlatte.com/)
 
 
