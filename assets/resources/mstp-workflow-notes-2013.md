@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digital Academic Workflow Notes - Duke MSTP Retreat 2013
-permalink: assets/resources/mstp-workflow-notes-2013
+permalink: resources/assets/mstp-workflow-notes-2013
 ---
 
 # Digital Academic Workflows (Notes)
