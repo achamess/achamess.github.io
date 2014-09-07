@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Design Guidelines for Personal Knowledgebase
+title: Design Guidelines for Personal Knowledgebase - 09/07/14
 permalink: /pkb-design-090714/
 ---
 
 
 See: 
+
 - [Designing a Personal Knowledgebase](http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/)
 - [Personal Knowledgebase Design Guidelines](http://wiki.learnstream.org/wiki/guide:personal_knowledge_base)
 
