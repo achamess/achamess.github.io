@@ -91,12 +91,14 @@ All entities in the PKBs are related via links. Every asset has a URL. Every inf
 - **Accessibility**: PKB viewed in a browser window. Can be edited and viewed quickly via keyboard calls (Alfred?).
 
 ### Tracking
-- Keep a versioning history (a la Github)
+- Version control (a la Github)
 - Learning tracking (all of this is *optional*)
     - Keep time and entry for learning
         - If I'm reading an article in browser, start a time. Take the name and url of the site. Record it automatically.
         - Quick entry for learning done offline (like Toggl)
 - Learning Goal Tracking (optional): Set learning goals. Associate activity with goals. Example, if my goal is to "Learn Python" and I spend 20 minutes reading about Python, that should be tracked as activity toward my goal. 
+
+
 
 ### Outputs and Output Features
 
